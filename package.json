@@ -5,7 +5,8 @@
   "dependencies": {
     "ansi-regex": "^4.1.1",
     "express": "^4.21.1",
-    "mongoose": "^8.8.3",
+    "mongodb": "^6.12.0",
+    "mongoose": "^8.9.2",
     "prompt-sync": "^4.2.0",
     "strip-ansi": "^5.2.0"
   },
